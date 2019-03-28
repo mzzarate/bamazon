@@ -2,5 +2,5 @@
 
 This is the table view
 
-![images](tableview.jpg)
+![Alt text](/bamazon/images/tableview.jpg"Optional Title")
 
