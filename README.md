@@ -2,5 +2,6 @@
 
 This is the table view
 
-![Alt text](/bamazon/images/tableview.jpg"Optional Title")
+![Bamazon](/images/tableview.jpg)
+Format: ![Alt Text](url)
 
